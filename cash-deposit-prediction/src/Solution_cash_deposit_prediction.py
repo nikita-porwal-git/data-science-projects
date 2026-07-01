@@ -2,9 +2,9 @@
 """
 Created on Mon Mar 01 09:00:30 2021
 
-@author: Nikita Porwal, Richa Patel
-#Email - porwal.nikit20@gmail.com, richapatel12@gmail.com
-#Contact - +91 7987858788, +91 9826863055
+@author: Nikita Porwal
+#Email - porwal.nikit20@gmail.com
+#Contact - +91 9424847351
 
 Project Title: Cash Deposit Prediction
 
